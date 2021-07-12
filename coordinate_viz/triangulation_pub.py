@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 import rospy
-import numpy as np
 import std_msgs
 from visualization_msgs.msg import Marker
 from geometry_msgs.msg import Point
